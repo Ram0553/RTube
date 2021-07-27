@@ -1,0 +1,14 @@
+com/example/api_prac1/BuildConfig.java
+ com.example.api_prac1.BuildConfig
+com/example/api_prac1/CustomAdapter.java
+ com.example.api_prac1.CustomAdapter
+ com.example.api_prac1.CustomAdapter$ViewHolder
+ com.example.api_prac1.CustomAdapter$ViewHolder$1
+com/example/api_prac1/MainActivity.java
+ com.example.api_prac1.MainActivity
+ com.example.api_prac1.MainActivity$1
+ com.example.api_prac1.MainActivity$1$1
+ com.example.api_prac1.MainActivity$1$2
+com/example/api_prac1/MainActivity2.java
+ com.example.api_prac1.MainActivity2
+ com.example.api_prac1.MainActivity2$1
