@@ -5,7 +5,7 @@ Here you can search,choose and play your favourite videos.
 
 It also shares the information regarding the channel which uploaded the video and the date of upload.
 
-Link to download RTube app:-  https://github.com/Ram0553/RTube/raw/master/RTube.apk
+Link to download RTube app:-  https://github.com/Ram0553/RTube/raw/master/app/build/outputs/apk/debug/app-debug.apk
 
 In App Pictures:
 
